@@ -1,0 +1,15 @@
+{
+    "name": "notes-app-server",
+    "version": "1.0.0",
+    "description": "Simple server for notes-app",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "GreysMouse",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
