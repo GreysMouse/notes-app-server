@@ -10,6 +10,7 @@
     "author": "GreysMouse",
     "license": "ISC",
     "dependencies": {
-        "express": "^5.1.0"
+        "busboy": "^1.6.0",
+        "busboy-esm": "^1.0.2"
     }
 }
